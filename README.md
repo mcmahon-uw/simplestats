@@ -1,6 +1,5 @@
-swc-git-collaborate
+mgw-git-collaborate
 ===================
 
-Sandbox for collaboration with git at UW Software Carpentry Bootcamps.
+Sandbox for collaboration with git at McMahon Git Workshop
 
-Welcome Winter 2015 workshoppers!
