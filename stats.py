@@ -36,3 +36,5 @@ def median(vals):
 	index = z /2
 	if z % 2 == 0:
 		return mean([vals[index],vals[index -1]])
+	else:
+		return vals[index]
